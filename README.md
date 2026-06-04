@@ -54,7 +54,7 @@ Through these exercises, I have practiced:
 
 ## Author
 
-**Yashvanth Balaji**
+**Balaji A**
 
 GitHub: https://github.com/yashvanthbalaji
 
